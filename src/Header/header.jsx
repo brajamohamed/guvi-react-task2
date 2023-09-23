@@ -53,7 +53,7 @@ const Header = () => {
         {/* navbar menu end */}
         {/* Cart button stat */}
         <div className="collapse navbar-collapse" id="cart">
-          <button className="bg-light border ms-auto border-1 border-black rounded p-1">
+          <button className="bg-light border ms-auto m border-1 border-black rounded p-1">
             <a href="/" className="text-black nav-link">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
