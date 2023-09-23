@@ -1,0 +1,15 @@
+.header {
+  height: 8rem;
+}
+.card {
+  width: 12rem;
+  height: 20rem;
+}
+#rating {
+  width: 25px;
+}
+.sale {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+}
